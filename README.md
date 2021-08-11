@@ -1,1 +1,5 @@
 # Bigrama
+
+## Funcionalidad
+
+
